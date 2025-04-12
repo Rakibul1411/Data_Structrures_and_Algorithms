@@ -1,0 +1,3 @@
+/Volumes/T7 Shield/IIT Folder/DSA Coding/Sorting-Searching/QuickSort-Median-of-Three-Approach/cmake-build-debug/CMakeFiles/QuickSort_Median_of_Three_Approach.dir
+/Volumes/T7 Shield/IIT Folder/DSA Coding/Sorting-Searching/QuickSort-Median-of-Three-Approach/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/T7 Shield/IIT Folder/DSA Coding/Sorting-Searching/QuickSort-Median-of-Three-Approach/cmake-build-debug/CMakeFiles/rebuild_cache.dir

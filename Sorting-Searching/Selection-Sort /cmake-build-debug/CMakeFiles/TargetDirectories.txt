@@ -1,0 +1,3 @@
+/Volumes/T7 Shield/IIT Folder/DSA Coding/Sorting-Searching/Selection-Sort /cmake-build-debug/CMakeFiles/Selection_Sort_.dir
+/Volumes/T7 Shield/IIT Folder/DSA Coding/Sorting-Searching/Selection-Sort /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/T7 Shield/IIT Folder/DSA Coding/Sorting-Searching/Selection-Sort /cmake-build-debug/CMakeFiles/rebuild_cache.dir
